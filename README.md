@@ -1,8 +1,9 @@
-# lemfetch
+# ntfetch
 An easy to use fetch program similar to Neofetch written in Batchfile
-# run lemfetch directly from the command line!
+# run ntfetch directly from the command line!
 
-![image](https://github.com/Typhoonz0/lemfetch/assets/122064502/f1570076-0a9c-4ebb-9267-414f75188932)
+![image](https://github.com/user-attachments/assets/a4f9e5b9-abce-40e2-87e6-3d2b2d37229c)
+
 
 # install
 press the green code button
